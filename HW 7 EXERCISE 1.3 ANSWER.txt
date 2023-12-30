@@ -1,0 +1,5 @@
+In the interval from 0 to 1, the longer segment will be atleast twice as long as the shorter segment, when the point on this segment is either in the range 0 to 0.33 or in the range 0.67 to 1.
+
+If the point is in the range 0 to 0.33, the second segment from 0.33 to 1 is twice as big as the first segment from 0 to 0.33.
+
+If the point is in the range 0.67 to 1, the first segment from 0 to 0.67 which is twice as big as the second segment which is from 0.67 to 1.
